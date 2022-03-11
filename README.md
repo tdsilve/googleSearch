@@ -1,3 +1,2 @@
 # googleSearch
-Replica of Google Search. You can use this replica to search on Google server.
-The main goal of this project is to create a form that send data to an existing web server, in this case Google's.
+The main goal of this project is to replicate Google Search page and write a form that send data to Google's server. So you can make a search by using "I'm Feeling Lucky" and "Google Search" buttons.
