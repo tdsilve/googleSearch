@@ -170,7 +170,7 @@ ul a
 }
 .searchBtn
 {
-    background-color: #f8f9fa;
+    background-color: hsl(210, 17%, 90%);
     border: none;
     margin: 11px 4px;
 }
