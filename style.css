@@ -86,7 +86,7 @@ ul a
 }
 .googleAppsIcon:hover
 {
-    --color: hsl(213, 5%, 89%);
+    --color: hsl(213, 5%, 79%);
     background-color: var(--color);
     outline: 8px solid var(--color);
     border-radius: 50%;
