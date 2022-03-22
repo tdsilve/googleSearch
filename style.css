@@ -183,3 +183,9 @@ ul a
 {
     box-shadow: 0 0px 1px rgba(0, 0, 0, .7);
 }
+
+@media only screen and (max-width: 600px){
+    ul{
+        justify-content: center;
+    }
+}
